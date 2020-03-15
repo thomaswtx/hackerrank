@@ -6,6 +6,7 @@ import java.util.List;
 
 /*
  * Given a square matrix, calculate the absolute difference between the sums of its diagonals.
+ * 
  */
 
 public class DiagonalDifference {
